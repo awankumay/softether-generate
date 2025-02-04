@@ -56,7 +56,8 @@ ST="Jakarta"
 
 Ubah nilai-nilai tersebut sesuai kebutuhan Anda sebelum menjalankan script.
 
-Support :
+Certificate Support :
 
-Windows ✅
-MacOS ✅
+- Windows ✅
+- MacOS ✅
+- Ubuntu ✅
