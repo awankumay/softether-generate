@@ -1,0 +1,5 @@
+# Mengabaikan direktori saat ini
+./
+
+# Mengabaikan semua file dengan ekstensi .pem
+*.pem
